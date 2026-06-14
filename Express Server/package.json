@@ -1,0 +1,15 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Create a Express server and also perform a file operation using file handling",
+  "license": "ISC",
+  "author": "Aditya ",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
